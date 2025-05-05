@@ -1,7 +1,7 @@
 # Setting up AWS EC2 Instance
 
 To set up the AWS EC2 Instance, clearly follow the following steps:
-- Open your favourite Browser
+- Open your favourite Browser.
 - Go to the website: [aws.amazon.com](https://aws.amazon.com/)
 ![image](https://github.com/user-attachments/assets/f2550f47-7671-4655-ba49-00eac067203e)
 - Click on "Sign In to the Console." After clicking, you will see the following page:
