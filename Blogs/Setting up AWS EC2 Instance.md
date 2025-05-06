@@ -6,7 +6,7 @@ To set up the AWS EC2 Instance, clearly follow the following steps:
 ![image](https://github.com/user-attachments/assets/f2550f47-7671-4655-ba49-00eac067203e)
 - Click on "Sign In to the Console." After clicking, you will see the following page:
 ![image](https://github.com/user-attachments/assets/300cba5b-1c66-4379-a0da-232a8b2483db)
-- On this page, click on "Sign in using root user email" if you already have an account; if not, then click on "Create a new AWS account."
+- On this page, click on "Sign in using root user email" if you already have an account; if not, then click on "Create a new AWS account"
 - On the next page type your "Root user email address" then click "Next."
 - Type your Password then click "Next."
 - If your account is secured using MFA, then finish signing in by typing your MFA code and then "Submit" it.
