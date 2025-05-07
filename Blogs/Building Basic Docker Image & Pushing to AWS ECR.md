@@ -443,5 +443,11 @@ docker run -p 80:80 <your-ecr-url>
 -	We learned to write a Dockerfile.
 -	We pushed the image to AWS ECR step by step.
 
+---
+
+For more Tech Blogs, You can follow me on:
+- [Linkedin](https://www.linkedin.com/in/abdullahbinamin/)
+- [Youtube](https://www.youtube.com/@AAA-Tech-1)
+- [GitHub](https://github.com/AbdullahbinAmin)
 
 
