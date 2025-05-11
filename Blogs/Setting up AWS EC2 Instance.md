@@ -14,7 +14,7 @@ To set up the AWS EC2 Instance, clearly follow the following steps:
 ![image](https://github.com/user-attachments/assets/daa0e489-b0f5-4b32-85bc-b2adf1a280f2)
 - In the AWS search bar, search for "EC2", you will see the page below:
 ![image](https://github.com/user-attachments/assets/2ea9376f-7d5b-4778-b0fd-65b207743770)
-- Click on "Launch Instance." You will see the page as given below:
+- Click on "Launch Instance". You will see the page as given below:
 ![image](https://github.com/user-attachments/assets/608e075a-2e71-41c8-9a4d-c8f430c948f9)
 - To create your first EC2 Instance, follow the complete instructions as follows:
   - Name and tags: Docker-Mastery
