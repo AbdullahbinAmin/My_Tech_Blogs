@@ -28,7 +28,7 @@ To set up the AWS EC2 Instance, clearly follow the following steps:
   - Now click on "Create key pair" and then save the .pem file where you want to save.
   - Network settings: Leave it Default. Click on the "Allow HTTPS traffic from the internet" and "Allow HTTP traffic from the internet" as in the below image:
  ![image](https://github.com/user-attachments/assets/3ad167e0-9148-4e55-8abc-1db509e3fb8c)
-- When you go to the last, you will see the "Launch Instance" button; click to create your first EC2 instance. You will see the success message "Successfully initiated launch of instance."
+- When you go to the last, you will see the "Launch Instance" button; click to create your first EC2 instance. You will see the success message "Successfully initiated launch of instance".
 ![image](https://github.com/user-attachments/assets/29aab15c-6ffa-4022-942c-c50fc1c7b481)
 - Now in the last of this message page, click on "View all instances".
 - You successfully launched your first EC2 instance
